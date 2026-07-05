@@ -1,0 +1,21 @@
+id,nombre,email,contrasena,rol,direccion,telefono,rango,unidad,organismo
+CIV001,Luis Perez,luis.perez@gmail.com,LuisPerez123,Civil,Calle 1 #10-20,3011111111,,,
+POL-01,CAI Centro,cai.centro@policia.gov.co,Centro2024,Autoridad,,,Patrullero,CAI Centro,Policía Nacional
+CIV003,Carlos Rodriguez,carlos.rodriguez@hotmail.com,CarlosRodriguez123,Civil,Avenida 3 #30-40,3033333333,,,
+POL-02,CAI Cable,cai.cable@policia.gov.co,Cable2024,Autoridad,,,Patrullero,CAI Cable,Policía Nacional
+CIV002,Maria Gomez,maria.gomez@gmail.com,MariaGomez123,Civil,Carrera 2 #20-30,3022222222,,,
+POL-03,CAI Palogrande,cai.palogrande@policia.gov.co,Palogrande2024,Autoridad,,,Patrullero,CAI Palogrande,Policía Nacional
+POL-04,CAI San José,cai.sanjose@policia.gov.co,SanJose2024,Autoridad,,,Patrullero,CAI San José,Policía Nacional
+POL-05,CAI La Enea,cai.laenea@policia.gov.co,Enea2024,Autoridad,,,Patrullero,CAI La Enea,Policía Nacional
+POL-06,CAI Chipre,cai.chipre@policia.gov.co,Chipre2024,Autoridad,,,Patrullero,CAI Chipre,Policía Nacional
+POL-07,CAI Villahermosa,cai.villahermosa@policia.gov.co,Villa2024,Autoridad,,,Patrullero,CAI Villahermosa,Policía Nacional
+POL-08,CAI Fátima,cai.fatima@policia.gov.co,Fatima2024,Autoridad,,,Patrullero,CAI Fátima,Policía Nacional
+AUT004,Doctora Gomez,gomez@defensacivil.gov.co,Gomez123,Autoridad,,,Coordinadora,Regional Centro,Defensa Civil
+AUT003,Comandante Rojas,rojas@ejercito.mil.co,Rojas123,Autoridad,,,Comandante,Base Militar,Ejército
+BOM-03,Estación Maltería,estacion.malteria@bomberos.gov.co,Malteria2024,Autoridad,,,Teniente,Estación Maltería,Bomberos
+AUT002,Bombero Lopez,lopez@dnbc.gov.co,Lopez123,Autoridad,,,Teniente,Estacion Norte,Bomberos
+AUT001,Oficial Perez,perez@policia.gov.co,Perez123,Autoridad,,,Capitan,Comisaria Centro,Policía Nacional
+123,a,a@gmail.com,HOLAMUNDOx1.,Civil,calle 96 br enea,3187391005,,,
+BOM-01,Estación Central,estacion.central@bomberos.gov.co,Central2024,Autoridad,,,Comandante,Estación Central,Bomberos
+BOM-02,Estación La Enea,estacion.enea@bomberos.gov.co,EneaB2024,Autoridad,,,Teniente,Estación La Enea,Bomberos
+1086134346,Kevin Rodriguez,904kevinrodriguez@gmail.com,EVXsap68,Civil,cra 15c #4-74,3150458403,,,

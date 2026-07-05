@@ -1,0 +1,10 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+INC001;Incendio;Incendio en bodega de productos quimicos;Avenida 68 #90-20; Fontibon;2026-07-03T15:04:12.763684100;ACTIVO;AUT001
+INC002;Incendio;Incendio forestal en cerro;Cerro de Monserrate; Centro;2026-07-03T15:04:12.764689600;ACTIVO;AUT002
+INC003;Incendio;Incendio en cocina de restaurante;Carrera 15 #80-10; Chapinero;2026-07-03T15:04:12.764689600;ACTIVO;AUT003
+INC004;Incendio;Incendio en reserva natural;Parque Natural Chingaza; Cundinamarca;2026-07-03T15:04:12.764689600;ACTIVO;AUT002
+INC006;Incendio;Incendio en vertedero de basura;Botadero de Doña Juana; Bogota;2026-07-03T15:04:12.765689300;ACTIVO;AUT003
+INC007;Incendio;Incendio en taller mecánico;Calle 26 #50-10; Teusaquillo;2026-07-03T15:04:12.765689300;ACTIVO;CIV001
+INC008;Incendio;Incendio en fábrica de muebles;Kennedy; Bogota;2026-07-03T15:04:12.765689300;ATENDIDO;AUT005
+INC009;Incendio;Incendio en vivienda de interés social;Suba; Bogota;2026-07-03T15:04:12.765689300;ATENDIDO;CIV003
+INC010;Incendio;Incendio en centro comercial;Centro Comercial Plaza; Cali;2026-07-03T15:04:12.765689300;ACTIVO;AUT001

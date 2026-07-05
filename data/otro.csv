@@ -1,0 +1,27 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+OTR001;otro;Violencia intrafamiliar en vivienda;Calle 18 #5-20, Centro;2026-07-05T10:30:59.497039800;ATENDIDO;CIV001
+OTR002;otro;Afectacion a la fauna en reserva natural;Parque Natural Chingaza, Cundinamarca;2026-07-05T10:30:59.498056800;ACTIVO;AUT003
+OTR003;otro;Derrumbe en via principal;Via al Magdalena, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;CIV002
+OTR004;otro;Persona en situacion de calle en estado critico;Calle 23 #10-15, Centro;2026-07-05T10:30:59.498056800;ATENDIDO;POL-01
+OTR005;otro;Contaminacion ambiental en zona industrial;Barrio La Enea, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;CIV003
+OTR006;otro;Caida de arbol sobre vivienda;Avenida Santander, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;BOM-01
+OTR007;otro;Protesta ciudadana en plaza principal;Plaza de Bolivar, Bogota;2026-07-05T10:30:59.498056800;ATENDIDO;AUT001
+OTR008;otro;Desaparicion de persona vulnerable;Barrio Palogrande, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;1086134346
+OTR009;otro;Maltrato animal en via publica;Barrio San Jose, Manizales;2026-07-05T10:30:59.498056800;ATENDIDO;POL-03
+OTR010;otro;Fuga de gas en edificio residencial;Calle 50 #15-20, Teusaquillo;2026-07-05T10:30:59.498056800;ACTIVO;AUT002
+OTR011;otro;Afectacion por inundacion en barrio;Barrio Chipre, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;BOM-02
+OTR012;otro;Persona con problemas mentales en via publica;Calle 19 #10-30, Centro;2026-07-05T10:30:59.498056800;ACTIVO;POL-05
+OTR013;otro;Incendio en cultivos de cafe;Eje Cafetero, Quindio;2026-07-05T10:30:59.498056800;ATENDIDO;AUT003
+OTR014;otro;Robo de madera en zona de reforestacion;Villavicencio, Meta;2026-07-05T10:30:59.498056800;ACTIVO;CIV001
+OTR015;otro;Personas con explosivos en rio;Rio Magdalena, Honda;2026-07-05T10:30:59.498056800;ACTIVO;AUT004
+OTR016;otro;Afectacion a monumento historico;Centro Historico, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;POL-07
+OTR017;otro;Caida de cableado electrico;Calle 45 #23-12, Kennedy;2026-07-05T10:30:59.498056800;ATENDIDO;BOM-03
+OTR018;otro;Persona en riesgo de suicidio;Puente La Enea, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;1086134346
+OTR019;otro;Afectacion por derrame quimico;Avenida 68 #90-20, Fontibon;2026-07-05T10:30:59.498056800;ACTIVO;AUT002
+OTR020;otro;Problema de convivencia vecinal;Barrio Villahermosa, Manizales;2026-07-05T10:30:59.498056800;ATENDIDO;POL-02
+OTR021;otro;Animal peligroso suelto;Parque de la Mujer, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;CIV002
+OTR021;otro;Desperfecto en via publica;Cra 15 #30-45, Chapinero;2026-07-05T10:30:59.498056800;ACTIVO;POL-04
+OTR022;otro;Afectacion a escuela por construccion;Colegio La Enea, Manizales;2026-07-05T10:30:59.498056800;ACTIVO;1086134346
+OTR023;otro;Persona con armas blancas en parque;Parque del Cafe, Quindio;2026-07-05T10:30:59.498056800;ACTIVO;AUT001
+OTR024;otro;Incendio en vertedero ilegal;Botadero Doña Juana, Bogota;2026-07-05T10:30:59.498056800;ATENDIDO;BOM-01
+OTR025;otro;Afectacion por tormenta electrica;Zona Rural, Manizales;2026-07-05T10:30:59.499072600;ACTIVO;AUT003

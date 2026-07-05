@@ -1,0 +1,59 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+INC001;Robo;Ladron con cuchillo en tienda de barrio;Calle 8 #15-30, Kennedy;2026-07-05T10:50:29.104882300;ACTIVO;CIV001
+INC002;Incendio;Incendio en bodega de productos quimicos;Avenida 68 #90-20, Fontibon;2026-07-05T10:50:29.107244200;ACTIVO;AUT001
+INC003;Sospechoso;Hombre merodeando cerca de jardin infantil;Carrera 7 #45-12, Chapinero;2026-07-05T10:50:29.107244200;ACTIVO;CIV003
+INC004;Tiroteo;Balacera en zona de bares y discotecas;Calle 85 #12-20, Zona Rosa;2026-07-05T10:50:29.107244200;ACTIVO;AUT001
+INC005;Robo;Robo de celulares en estacion de Transmilenio;Avenida Caracas #60-30, Restrepo;2026-07-05T10:50:29.107244200;ATENDIDO;CIV002
+INC006;Incendio;Incendio forestal en cerro;Cerro de Monserrate, Centro;2026-07-05T10:50:29.108242200;ATENDIDO;AUT003
+INC007;Sospechoso;Persona dejando paquete sospechoso en el aeropuerto;Aeropuerto El Dorado, Fontibon;2026-07-05T10:50:29.108242200;ATENDIDO;AUT002
+INC008;Tiroteo;Ataque con arma de fuego en centro comercial;Centro Comercial Unicentro, Suba;2026-07-05T10:50:29.108242200;ACTIVO;AUT004
+INC009;Robo;Hurto de motocicleta en vivienda;Calle 100 #20-30, Suba;2026-07-05T10:50:29.108242200;ACTIVO;CIV001
+INC010;Incendio;Incendio en cocina de restaurante;Carrera 15 #80-10, Chapinero;2026-07-05T10:50:29.108242200;ATENDIDO;AUT002
+INC011;Robo;Robo de carro en parqueadero;Calle 45 #23-12, Kennedy;2026-07-05T10:50:29.108242200;ACTIVO;POL-01
+INC012;Incendio;Incendio en fabrica de muebles;Avenida 68 #90-20, Fontibon;2026-07-05T10:50:29.108242200;ACTIVO;POL-02
+INC013;Sospechoso;Persona con arma blanca;Carrera 7 #45-12, Chapinero;2026-07-05T10:50:29.108242200;ACTIVO;POL-03
+INC014;Tiroteo;Tiroteo en restaurante;Calle 85 #12-20, Zona Rosa;2026-07-05T10:50:29.108242200;ACTIVO;POL-04
+INC015;Robo;Robo en tienda de tecnologia;Calle 100 #20-30, Suba;2026-07-05T10:50:29.108242200;ACTIVO;POL-05
+INC016;Incendio;Incendio en taller mecanico;Calle 26 #50-10, Teusaquillo;2026-07-05T10:50:29.108242200;ATENDIDO;POL-06
+INC017;Sospechoso;Hombre con camara oculta;Carrera 7 #45-12, Chapinero;2026-07-05T10:50:29.108242200;ACTIVO;POL-07
+INC018;Tiroteo;Tiroteo en centro comercial;Centro Comercial Mayorca, Medellin;2026-07-05T10:50:29.108242200;ACTIVO;POL-08
+INC019;Robo;Robo en tienda de barrio;Centro Comercial Unicentro, Suba;2026-07-05T10:50:29.108242200;ACTIVO;BOM-01
+INC020;Incendio;Incendio en bodega de papel;Avenida 68 #90-20, Fontibon;2026-07-05T10:50:29.108242200;ACTIVO;BOM-02
+INC021;Robo;Robo de celulares en Transmilenio;Avenida Caracas #60-30, Restrepo;2026-07-05T10:50:29.108242200;ACTIVO;BOM-03
+INC022;Incendio;Incendio en cocina de restaurante;Carrera 15 #80-10, Chapinero;2026-07-05T10:50:29.108242200;ATENDIDO;1086134346
+INC023;Sospechoso;Persona con mochila sospechosa;Carrera 7 #45-12, Chapinero;2026-07-05T10:50:29.108242200;ACTIVO;1086134346
+INC024;Tiroteo;Balacera en discoteca;Calle 85 #12-20, Zona Rosa;2026-07-05T10:50:29.108242200;ATENDIDO;1086134346
+INC025;Robo;Robo en farmacia;Calle 45 #23-12, Kennedy;2026-07-05T10:50:29.108242200;ACTIVO;1086134346
+OTR001;otro;Violencia intrafamiliar en vivienda;Calle 18 #5-20, Centro;2026-07-05T10:50:29.108242200;ATENDIDO;CIV004
+OTR002;otro;Afectacion a la fauna en reserva natural;Parque Natural Chingaza, Cundinamarca;2026-07-05T10:50:29.108242200;ATENDIDO;AUT005
+OTR003;otro;Derrumbe en via principal;Via al Magdalena, Manizales;2026-07-05T10:50:29.108242200;ATENDIDO;CIV005
+OTR004;otro;Persona en situacion de calle en estado critico;Calle 23 #10-15, Centro;2026-07-05T10:50:29.109415400;ATENDIDO;POL-09
+OTR005;otro;Contaminacion ambiental en zona industrial;Barrio La Enea, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;CIV006
+OTR006;otro;Caida de arbol sobre vivienda;Avenida Santander, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;BOM-04
+OTR007;otro;Protesta ciudadana en plaza principal;Plaza de Bolivar, Bogota;2026-07-05T10:50:29.109415400;ATENDIDO;AUT001
+OTR008;otro;Desaparicion de persona vulnerable;Barrio Palogrande, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;1086134346
+OTR009;otro;Maltrato animal en via publica;Barrio San Jose, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;POL-10
+OTR010;otro;Fuga de gas en edificio residencial;Calle 50 #15-20, Teusaquillo;2026-07-05T10:50:29.109415400;ATENDIDO;AUT002
+OTR011;otro;Afectacion por inundacion en barrio;Barrio Chipre, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;BOM-05
+OTR012;otro;Persona con problemas mentales en via publica;Calle 19 #10-30, Centro;2026-07-05T10:50:29.109415400;ATENDIDO;POL-11
+OTR013;otro;Incendio en cultivos de cafe;Eje Cafetero, Quindio;2026-07-05T10:50:29.109415400;ATENDIDO;AUT003
+OTR014;otro;Robo de madera en zona de reforestacion;Villavicencio, Meta;2026-07-05T10:50:29.109415400;ATENDIDO;CIV007
+OTR015;otro;Personas con explosivos en rio;Rio Magdalena, Honda;2026-07-05T10:50:29.109415400;ATENDIDO;AUT004
+OTR016;otro;Afectacion a monumento historico;Centro Historico, Manizales;2026-07-05T10:50:29.109415400;ATENDIDO;POL-12
+OTR017;otro;Caida de cableado electrico;Calle 45 #23-12, Kennedy;2026-07-05T10:50:29.109415400;ATENDIDO;BOM-06
+OTR018;otro;Persona en riesgo de suicidio;Puente La Enea, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;1086134346
+OTR019;otro;Afectacion por derrame quimico;Avenida 68 #90-20, Fontibon;2026-07-05T10:50:29.110627800;ATENDIDO;AUT002
+OTR020;otro;Problema de convivencia vecinal;Barrio Villahermosa, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;POL-13
+OTR021;otro;Animal peligroso suelto;Parque de la Mujer, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;CIV008
+OTR022;otro;Desperfecto en via publica;Cra 15 #30-45, Chapinero;2026-07-05T10:50:29.110627800;ATENDIDO;POL-14
+OTR023;otro;Afectacion a escuela por construccion;Colegio La Enea, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;1086134346
+OTR024;otro;Persona con armas blancas en parque;Parque del Cafe, Quindio;2026-07-05T10:50:29.110627800;ATENDIDO;AUT001
+OTR025;otro;Incendio en vertedero ilegal;Botadero Doña Juana, Bogota;2026-07-05T10:50:29.110627800;ATENDIDO;BOM-07
+OTR026;otro;Afectacion por tormenta electrica;Zona Rural, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;AUT003
+OTR027;otro;Robo de identidad en banco;Banco Popular, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;CIV009
+OTR028;otro;Afectacion a zona protegida;Amazonas, Leticia;2026-07-05T10:50:29.110627800;ATENDIDO;AUT006
+OTR029;otro;Persona con arma de fuego en colegio;Colegio San Jose, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;POL-15
+OTR030;otro;Inundacion en via principal;Via al Aeropuerto, Manizales;2026-07-05T10:50:29.110627800;ATENDIDO;BOM-08
+81A1540A;otro;zxcvbnm;x,y;2026-07-05T10:50:29.110627800;ATENDIDO;1086134346
+B9BC7DF9;otro;esto;x,y;2026-07-05T10:50:29.110627800;ATENDIDO;CIV007
+1DE91794;otro;asdfghjkl;x,z;2026-07-05T10:50:29.110627800;ATENDIDO;321

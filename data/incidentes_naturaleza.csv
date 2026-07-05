@@ -1,0 +1,9 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+INC201;Incendio;Incendio en reserva natural;Parque Natural Chingaza, Cundinamarca;2025-03-13T06:30:00;ACTIVO;AUT003
+INC202;Incendio;Incendio en cultivos de papa;Municipio de Zipaquira, Cundinamarca;2025-03-13T11:00:00;ACTIVO;AUT002
+INC203;Robo;Robo de jaulas con animales exóticos;Zoológico Santa Fe, Medellin;2025-03-13T13:45:00;ACTIVO;CIV002
+INC204;Sospechoso;Personas con motosierras en zona protegida;Amazonas, Leticia;2025-03-13T16:00:00;ACTIVO;AUT006
+INC205;Tiroteo;Cazadores ilegales disparan a fauna;Sierra Nevada de Santa Marta;2025-03-14T08:00:00;ACTIVO;AUT001
+INC206;Incendio;Incendio en vertedero de basura;Botadero de Doña Juana, Bogota;2025-03-14T10:30:00;ACTIVO;AUT002
+INC207;Robo;Robo de madera en zona de reforestación;Villavicencio, Meta;2025-03-14T14:00:00;ACTIVO;CIV004
+INC208;Sospechoso;Personas con explosivos en rio;Rio Magdalena, Honda;2025-03-15T09:00:00;ATENDIDO;AUT005

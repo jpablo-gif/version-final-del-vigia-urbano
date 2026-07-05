@@ -1,0 +1,31 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+INC001;Robo;Ladron con cuchillo en tienda de barrio;Calle 8 #15-30; Kennedy;2026-07-03T16:22:24.558599500;ACTIVO;CIV001
+INC002;Incendio;Incendio en bodega de productos quimicos;Avenida 68 #90-20; Fontibon;2026-07-03T16:22:24.559597500;ACTIVO;AUT002
+INC003;Sospechoso;Hombre merodeando cerca de jardin infantil;Carrera 7 #45-12; Chapinero;2026-07-03T16:22:24.559597500;ACTIVO;CIV003
+INC004;Tiroteo;Balacera en zona de bares y discotecas;Calle 85 #12-20; Zona Rosa;2026-07-03T16:22:24.559597500;ACTIVO;AUT001
+INC005;Robo;Robo de celulares en estacion de Transmilenio;Avenida Caracas #60-30; Restrepo;2026-07-03T16:22:24.560813500;ACTIVO;CIV002
+INC006;Incendio;Incendio forestal en cerro;Cerro de Monserrate; Centro;2026-07-03T16:22:24.560813500;ACTIVO;AUT003
+INC007;Sospechoso;Persona dejando paquete sospechoso en el aeropuerto;Aeropuerto El Dorado; Fontibon;2026-07-03T16:22:24.560813500;ACTIVO;AUT002
+INC008;Tiroteo;Ataque con arma de fuego en centro comercial;Centro Comercial Unicentro; Suba;2026-07-03T16:22:24.560813500;ACTIVO;AUT004
+INC009;Robo;Hurto de motocicleta en vivienda;Calle 100 #20-30; Suba;2026-07-03T16:22:24.560813500;ACTIVO;CIV001
+INC010;Incendio;Incendio en cocina de restaurante;Carrera 15 #80-10; Chapinero;2026-07-03T16:22:24.560813500;ACTIVO;AUT002
+INC011;Robo;Robo de carro en parqueadero;Calle 45 #23-12; Kennedy;2026-07-03T16:22:24.560813500;ATENDIDO;CIV005
+INC012;Incendio;Incendio en fabrica de muebles;Avenida 68 #90-20; Fontibon;2026-07-03T16:22:24.560813500;ACTIVO;AUT004
+INC013;Sospechoso;Persona con arma blanca;Carrera 7 #45-12; Chapinero;2026-07-03T16:22:24.560813500;ACTIVO;CIV012
+INC014;Tiroteo;Tiroteo en restaurante;Calle 85 #12-20; Zona Rosa;2026-07-03T16:22:24.560813500;ACTIVO;AUT001
+INC015;Robo;Robo en tienda de tecnologia;Calle 100 #20-30; Suba;2026-07-03T16:22:24.560813500;ACTIVO;CIV021
+INC016;Incendio;Incendio en taller mecanico;Calle 26 #50-10; Teusaquillo;2026-07-03T16:22:24.560813500;ACTIVO;CIV001
+INC017;Sospechoso;Hombre con camara oculta;Carrera 7 #45-12; Chapinero;2026-07-03T16:22:24.560813500;ACTIVO;CIV013
+INC018;Tiroteo;Tiroteo en centro comercial de Medellin;Centro Comercial Mayorca; Medellin;2026-07-03T16:22:24.560813500;ACTIVO;AUT001
+INC019;Robo;Robo en tienda de barrio 5;Centro Comercial Unicentro; Suba;2026-07-03T16:22:24.560813500;ACTIVO;CIV043
+INC020;Incendio;Incendio en bodega de papel;Avenida 68 #90-20; Fontibon;2026-07-03T16:22:24.560813500;ACTIVO;AUT003
+INC021;Sospechoso;Persona con mochila sospechosa;Carrera 7 #45-12; Chapinero;2026-07-03T16:22:24.560813500;ACTIVO;CIV014
+INC022;Tiroteo;Balacera en discoteca;Calle 85 #12-20; Zona Rosa;2026-07-03T16:22:24.560813500;ACTIVO;AUT001
+INC023;Robo;Robo en farmacia;Calle 45 #23-12; Kennedy;2026-07-03T16:22:24.560813500;ACTIVO;CIV007
+INC024;Incendio;Incendio en vertedero de basura;Botadero Doña Juana; Bogota;2026-07-03T16:22:24.560813500;ACTIVO;AUT002
+INC025;Sospechoso;Persona sospechosa en banco;Avenida Caracas #60-30; Restrepo;2026-07-03T16:22:24.560813500;ACTIVO;CIV049
+INC026;Tiroteo;Tiroteo en barrio peligroso;Barrio Santa Fe; Medellin;2026-07-03T16:22:24.560813500;ACTIVO;AUT001
+INC027;Robo;Robo en almacen de ropa;Kennedy; Bogota;2026-07-03T16:22:24.560813500;ACTIVO;CIV078
+INC028;Incendio;Incendio en cultivos de papa;Zipaquira; Cundinamarca;2026-07-03T16:22:24.560813500;ACTIVO;AUT002
+INC029;Sospechoso;Personas con motosierras;Amazonas; Leticia;2026-07-03T16:22:24.560813500;ACTIVO;AUT006
+INC030;Tiroteo;Cazadores ilegales;Sierra Nevada; Santa Marta;2026-07-03T16:22:24.560813500;ACTIVO;AUT001

@@ -1,0 +1,61 @@
+VigiaUrbano/
+│
+├── src/
+│   └── vigiaurbano/
+│       │
+│       ├── model/                         
+│       │   ├── Usuario.java                
+│       │   ├── Civil.java                  
+│       │   ├── Autoridad.java             
+│       │   ├── Incidente.java             
+│       │   ├── Robo.java                   
+│       │   ├── Incendio.java             
+│       │   ├── Tiroteo.java               
+│       │   ├── Sospechoso.java          
+│       │   ├── Otro.java                
+│       │   └── EstadoIncidente.java      
+│       │
+│       ├── data/                          
+│       │   └── GestorArchivos.java       
+│       │
+│       ├── logic/                        
+│       │   ├── CargarUsuarios.java       
+│       │   ├── GuardarUsuarios.java      
+│       │   ├── GestorUsuarios.java       
+│       │   ├── CargarIncidentes.java      
+│       │   ├── GuardarIncidentes.java      
+│       │   ├── GestorIncidentes.java       
+│       │   └── EstacionesManizales.java   
+│       │
+│       ├── ui/                           
+│       │   ├── LoginUI.java               
+│       │   ├── VentanaPrincipalUI.java    
+│       │   ├── VentanaAtendidosUI.java    
+│       │   └── DialogoReporteUI.java      
+│       │
+│       └── Main.java                     
+│
+├── data/                                 
+│   ├── incidentes_aleatorios.csv          
+│   ├── usuarios_aleatorios.csv           
+│   ├── incidentes_masivo.csv            
+│   ├── usuarios_masivo.csv             
+│   ├── incidentes_otro.csv            
+│   ├── usuarios_otro.csv                
+│   └── otros archivos CSV             
+│
+├── bin/                              
+│          
+│
+├── .gitignore                           
+├── README.md   
+
+#como compilar       
+javac -d bin -sourcepath src -cp src src/vigiaurbano/model/*.java src/vigiaurbano/data/*.java src/vigiaurbano/logic/*.java src/vigiaurbano/ui/*.java src/vigiaurbano/Main.java
+
+# Ejecutar (usa archivos por defecto: data/incidentes_aleatorios.csv y data/usuarios_aleatorios.csv)
+java -cp bin vigiaurbano.Main
+
+# Ejecutar con archivos personalizados
+java -cp bin vigiaurbano.Main data/Masivi2.csv data/Masivu.csv       
+                    

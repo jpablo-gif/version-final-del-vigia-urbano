@@ -1,0 +1,8 @@
+id,nombre,email,contrasena,rol,direccion,telefono,rango,unidad,organismo
+CIV001,Ana Ramirez,ana@gmail.com,Ana123,Civil,Calle 1 #23-45,3112223344,,,
+CIV002,Carlos Gomez,carlos@gmail.com,Carlos123,Civil,Carrera 2 #12-34,3115556677,,,
+CIV003,Maria Fernandez,maria@gmail.com,Maria456,Civil,Avenida 3 #45-67,3123456789,,,
+AUT001,Oficial Perez,perez@policia.gov.co,Perez123,Autoridad,,,Capitan,Comisaria Centro,Policía Nacional
+AUT002,Bombero Lopez,lopez@dnbc.gov.co,Lopez123,Autoridad,,,Teniente,Estacion Norte,Bomberos
+AUT003,Comandante Rojas,rojas@ejercito.mil.co,Rojas123,Autoridad,,,Comandante,Base Militar,Ejército
+AUT004,Doctora Gomez,gomez@defensacivil.gov.co,Gomez123,Autoridad,,,Coordinadora,Regional Centro,Defensa Civil

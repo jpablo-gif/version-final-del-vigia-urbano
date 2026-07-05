@@ -1,0 +1,42 @@
+id,nombre,email,contrasena,rol,direccion,telefono,rango,unidad,organismo
+CIV001,Luis Perez,luis.perez@gmail.com,LuisPerez123,Civil,Calle 1 #10-20,3011111111,,,
+POL-11,CAI Los Alpes,cai.losalpes@policia.gov.co,Alpes2024,Autoridad,,,Patrullero,CAI Los Alpes,Policía Nacional
+POL-12,CAI El Poblado,cai.elpoblado@policia.gov.co,Poblado2024,Autoridad,,,Patrullero,CAI El Poblado,Policía Nacional
+CIV003,Carlos Rodriguez,carlos.rodriguez@hotmail.com,CarlosRodriguez123,Civil,Avenida 3 #30-40,3033333333,,,
+POL-13,CAI La Aurora,cai.laaurora@policia.gov.co,Aurora2024,Autoridad,,,Patrullero,CAI La Aurora,Policía Nacional
+CIV002,Maria Gomez,maria.gomez@gmail.com,MariaGomez123,Civil,Carrera 2 #20-30,3022222222,,,
+POL-14,CAI El Rosario,cai.elrosario@policia.gov.co,Rosario2024,Autoridad,,,Patrullero,CAI El Rosario,Policía Nacional
+CIV005,Julio Casas,julio.casas@yahoo.com,JulioCasas123,Civil,Carrera 5 #50-60,3055555555,,,
+POL-15,CAI La Esperanza,cai.laesperanza@policia.gov.co,Esperanza2024,Autoridad,,,Patrullero,CAI La Esperanza,Policía Nacional
+CIV004,Sofia Vallejo,sofia.vallejo@outlook.com,SofiaVallejo123,Civil,Calle 4 #40-50,3044444444,,,
+CIV007,Pedro Ramirez,pedro.ramirez@hotmail.com,PedroRamirez123,Civil,Calle 7 #70-80,3077777777,,,
+CIV006,Ana Martinez,ana.martinez@gmail.com,AnaMartinez123,Civil,Avenida 6 #60-70,3066666666,,,
+CIV009,Jorge Torres,jorge.torres@outlook.com,JorgeTorres123,Civil,Avenida 9 #90-100,3099999999,,,
+BOM-07,Estación Villahermosa,estacion.villahermosa@bomberos.gov.co,VillaB2024,Autoridad,,,Teniente,Estación Villahermosa,Bomberos
+CIV008,Laura Sanchez,laura.sanchez@gmail.com,LauraSanchez123,Civil,Carrera 8 #80-90,3088888888,,,
+BOM-08,Estación San José,estacion.sanjose@bomberos.gov.co,SanJoseB2024,Autoridad,,,Teniente,Estación San José,Bomberos
+BOM-03,Estación Maltería,estacion.malteria@bomberos.gov.co,Malteria2024,Autoridad,,,Teniente,Estación Maltería,Bomberos
+BOM-04,Estación El Cable,estacion.elcable@bomberos.gov.co,CableB2024,Autoridad,,,Teniente,Estación El Cable,Bomberos
+BOM-05,Estación Chipre,estacion.chipre@bomberos.gov.co,ChipreB2024,Autoridad,,,Teniente,Estación Chipre,Bomberos
+BOM-06,Estación Palogrande,estacion.palogrande@bomberos.gov.co,PalograndeB2024,Autoridad,,,Teniente,Estación Palogrande,Bomberos
+BOM-01,Estación Central,estacion.central@bomberos.gov.co,Central2024,Autoridad,,,Comandante,Estación Central,Bomberos
+BOM-02,Estación La Enea,estacion.enea@bomberos.gov.co,EneaB2024,Autoridad,,,Teniente,Estación La Enea,Bomberos
+CIV010,Diana Rojas,diana.rojas@yahoo.com,DianaRojas123,Civil,Calle 10 #100-110,3101111111,,,
+POL-01,CAI Centro,cai.centro@policia.gov.co,Centro2024,Autoridad,,,Patrullero,CAI Centro,Policía Nacional
+POL-02,CAI Cable,cai.cable@policia.gov.co,Cable2024,Autoridad,,,Patrullero,CAI Cable,Policía Nacional
+POL-03,CAI Palogrande,cai.palogrande@policia.gov.co,Palogrande2024,Autoridad,,,Patrullero,CAI Palogrande,Policía Nacional
+POL-04,CAI San José,cai.sanjose@policia.gov.co,SanJose2024,Autoridad,,,Patrullero,CAI San José,Policía Nacional
+POL-05,CAI La Enea,cai.laenea@policia.gov.co,Enea2024,Autoridad,,,Patrullero,CAI La Enea,Policía Nacional
+POL-06,CAI Chipre,cai.chipre@policia.gov.co,Chipre2024,Autoridad,,,Patrullero,CAI Chipre,Policía Nacional
+POL-07,CAI Villahermosa,cai.villahermosa@policia.gov.co,Villa2024,Autoridad,,,Patrullero,CAI Villahermosa,Policía Nacional
+POL-08,CAI Fátima,cai.fatima@policia.gov.co,Fatima2024,Autoridad,,,Patrullero,CAI Fátima,Policía Nacional
+POL-09,CAI La Linda,cai.lalinda@policia.gov.co,Linda2024,Autoridad,,,Patrullero,CAI La Linda,Policía Nacional
+AUT006,Enfermera Romero,romero@cruzrojacolombiana.org,Romero123,Autoridad,,,Enfermera,Regional Occidente,Cruz Roja
+AUT005,Fiscal Castro,castro@fiscalia.gov.co,Castro123,Autoridad,,,Fiscal,Seccional Bogota,Fiscalía
+AUT004,Doctora Gomez,gomez@defensacivil.gov.co,Gomez123,Autoridad,,,Coordinadora,Regional Centro,Defensa Civil
+AUT003,Comandante Rojas,rojas@ejercito.mil.co,Rojas123,Autoridad,,,Comandante,Base Militar,Ejército
+AUT002,Bombero Lopez,lopez@dnbc.gov.co,Lopez123,Autoridad,,,Teniente,Estacion Norte,Bomberos
+AUT001,Oficial Perez,perez@policia.gov.co,Perez123,Autoridad,,,Capitan,Comisaria Centro,Policía Nacional
+321,p,p@gmail.com,IMBATMANx1.,Civil,calle95c-315 la enea,3187391005,,,
+1086134346,Kevin Rodriguez,904kevinrodriguez@gmail.com,EVXsap68,Civil,cra 15c #4-74,3150458403,,,
+POL-10,CAI El Carmen,cai.elcarmen@policia.gov.co,Carmen2024,Autoridad,,,Patrullero,CAI El Carmen,Policía Nacional

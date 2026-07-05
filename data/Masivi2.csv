@@ -1,0 +1,45 @@
+id;categoria;descripcion;ubicacion;fechaHora;estado;reportadoPorId
+INC001;Robo;Ladron con cuchillo en tienda;Calle 8 #15-30, Kennedy;2026-07-05T10:23:19.369870200;ATENDIDO;CIV001
+INC002;Incendio;Incendio en bodega quimica;Avenida 68 #90-20, Fontibon;2026-07-05T10:23:19.370890800;ATENDIDO;AUT002
+INC003;Sospechoso;Hombre merodeando jardin infantil;Carrera 7 #45-12, Chapinero;2026-07-05T10:23:19.370890800;ATENDIDO;CIV003
+INC004;Tiroteo;Balacera en zona de bares;Calle 85 #12-20, Zona Rosa;2026-07-05T10:23:19.370890800;ATENDIDO;AUT001
+INC005;Robo;Robo de celulares en Transmilenio;Avenida Caracas #60-30, Restrepo;2026-07-05T10:23:19.370890800;ATENDIDO;CIV002
+INC006;Incendio;Incendio forestal en cerro;Cerro de Monserrate, Centro;2026-07-05T10:23:19.370890800;ATENDIDO;AUT003
+INC007;Sospechoso;Paquete sospechoso en aeropuerto;Aeropuerto El Dorado, Fontibon;2026-07-05T10:23:19.370890800;ATENDIDO;AUT002
+INC008;Tiroteo;Ataque armado en centro comercial;Centro Comercial Unicentro, Suba;2026-07-05T10:23:19.370890800;ATENDIDO;AUT004
+INC009;Robo;Hurto de motocicleta en vivienda;Calle 100 #20-30, Suba;2026-07-05T10:23:19.370890800;ATENDIDO;CIV001
+INC010;Incendio;Incendio en cocina de restaurante;Carrera 15 #80-10, Chapinero;2026-07-05T10:23:19.370890800;ATENDIDO;AUT002
+INC011;Robo;Robo de carro en parqueadero;Calle 45 #23-12, Kennedy;2026-07-05T10:23:19.370890800;ATENDIDO;CIV005
+INC012;Incendio;Incendio en fabrica de muebles;Avenida 68 #90-20, Fontibon;2026-07-05T10:23:19.370890800;ATENDIDO;AUT004
+INC013;Sospechoso;Persona con arma blanca;Carrera 7 #45-12, Chapinero;2026-07-05T10:23:19.370890800;ATENDIDO;CIV012
+INC014;Tiroteo;Tiroteo en restaurante;Calle 85 #12-20, Zona Rosa;2026-07-05T10:23:19.370890800;ATENDIDO;AUT001
+INC015;Robo;Robo en tienda de tecnologia;Calle 100 #20-30, Suba;2026-07-05T10:23:19.370890800;ATENDIDO;CIV021
+INC016;Incendio;Incendio en taller mecanico;Calle 26 #50-10, Teusaquillo;2026-07-05T10:23:19.370890800;ATENDIDO;CIV001
+INC017;Sospechoso;Hombre con camara oculta;Carrera 7 #45-12, Chapinero;2026-07-05T10:23:19.370890800;ATENDIDO;CIV013
+INC018;Tiroteo;Tiroteo en centro comercial;Centro Comercial Mayorca, Medellin;2026-07-05T10:23:19.370890800;ATENDIDO;AUT001
+INC019;Robo;Robo en tienda de barrio;Centro Comercial Unicentro, Suba;2026-07-05T10:23:19.370890800;ATENDIDO;CIV043
+INC020;Incendio;Incendio en bodega de papel;Avenida 68 #90-20, Fontibon;2026-07-05T10:23:19.370890800;ATENDIDO;AUT003
+INC021;Sospechoso;Persona con mochila sospechosa;Carrera 7 #45-12, Chapinero;2026-07-05T10:23:19.370890800;ATENDIDO;CIV014
+INC022;Tiroteo;Balacera en discoteca;Calle 85 #12-20, Zona Rosa;2026-07-05T10:23:19.370890800;ATENDIDO;AUT001
+INC023;Robo;Robo en farmacia;Calle 45 #23-12, Kennedy;2026-07-05T10:23:19.370890800;ATENDIDO;CIV007
+INC024;Incendio;Incendio en vertedero;Botadero Doña Juana, Bogota;2026-07-05T10:23:19.370890800;ATENDIDO;AUT002
+INC025;Sospechoso;Persona sospechosa en banco;Avenida Caracas #60-30, Restrepo;2026-07-05T10:23:19.370890800;ATENDIDO;CIV049
+INC026;Tiroteo;Tiroteo en barrio peligroso;Barrio Santa Fe, Medellin;2026-07-05T10:23:19.370890800;ATENDIDO;AUT001
+INC027;Robo;Robo en almacen de ropa;Kennedy, Bogota;2026-07-05T10:23:19.370890800;ATENDIDO;CIV078
+INC028;Incendio;Incendio en cultivos de papa;Zipaquira, Cundinamarca;2026-07-05T10:23:19.370890800;ATENDIDO;AUT002
+INC029;Sospechoso;Personas con motosierras;Amazonas, Leticia;2026-07-05T10:23:19.370890800;ATENDIDO;AUT006
+INC030;Tiroteo;Cazadores ilegales;Sierra Nevada, Santa Marta;2026-07-05T10:23:19.372041300;ATENDIDO;AUT001
+46FDF9A9;incendio;Hola;chapinero, 3-2;2026-07-05T10:23:19.372041300;ATENDIDO;CIV004
+3741E673;robo;ajjdjdjs;a,b;2026-07-05T10:23:19.372041300;ATENDIDO;1086134346
+596579ED;robo;se me robaron el carro;calle 55,cafetero;2026-07-05T10:23:19.372041300;ATENDIDO;CIV006
+3D7B6F8F;tiroteo;que mas ve;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1668545133312394
+9080ADAC;robo;esto;Kenedy, cerquita de aqui;2026-07-05T10:23:19.372041300;ATENDIDO;1668545133312394
+A06EB96F;robo;esto;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1668545133312394
+837B7B73;otro;HOLA;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1668545133312394
+CCAFBF7D;otro;xxxzxc;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1668545133312394
+95EC17E6;otro;fghjkl;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1086134346
+909450B6;robo;123;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1086134346
+D401A951;incendio;123;x,y;2026-07-05T10:23:19.372041300;ATENDIDO;1086134346
+0249CCC7;sospechoso;123;x,y;2026-07-05T10:23:19.372041300;ACTIVO;1086134346
+2B44B126;tiroteo;qwertyuiop;zxcvb,v;2026-07-05T10:23:19.372041300;ACTIVO;1086134346
+CA2830F7;otro;asdfghjkl;calle 7 c ,centro;2026-07-05T10:23:19.372041300;ATENDIDO;CIV126

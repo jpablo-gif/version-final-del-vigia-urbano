@@ -1,0 +1,13 @@
+id,nombre,email,contrasena,rol,direccion,telefono,rango,unidad,organismo
+CIV001,Luis Perez,luis@yahoo.com,Perez2025,Civil,Calle 45 #23-67,3214567890,,,
+CIV002,Ana Rodriguez,ana@gmail.com,Rodri2025,Civil,Carrera 12 #34-56,3109876543,,,
+CIV003,Julio Casas,julio@hotmail.com,Casas2025,Civil,Avenida 1 #56-78,3112345678,,,
+CIV004,Sofia Vallejo,sofia@outlook.com,Valle2025,Civil,Calle 88 #12-34,3145678901,,,
+CIV005,Carlos Luna,carlos@mail.com,Luna2025,Civil,Cra 7 #45-12,3187654321,,,
+AUT001,Carlos Moreno,carlos@policia.gov.co,Moreno2025,Autoridad,,,Mayor,Comisaria Centro,Policía Nacional
+AUT002,Patricia Diaz,patricia@ejercito.mil.co,Diaz2025,Autoridad,,,Coronel,Base Militar,Ejército
+AUT003,Laura Gomez,laura@defensacivil.gov.co,Gomez2025,Autoridad,,,Coordinadora,Regional Norte,Defensa Civil
+AUT004,Andres Pardo,andres@policia.gov.co,Pardo2025,Autoridad,,,Sargento,Comisaria Sur,Policía Nacional
+AUT005,Marcela Romero,marcela@cruzrojacolombiana.org,Romero2025,Autoridad,,,Enfermera,Regional Occidente,Cruz Roja
+AUT006,Roberto Castro,roberto@fiscalia.gov.co,Castro2025,Autoridad,,,Fiscal,Seccional Bogota,Fiscalía
+AUT007,Luz Elena Gomez,luz@gestiondelriesgo.gov.co,Gomez2025,Autoridad,,,Analista,UNGRD Nacional,UNGRD
