@@ -1,0 +1,199 @@
+================================================================================
+                          INFORME FINAL - VIGÍAURBANO
+                          Sistema de alertas tempranas
+                          para seguridad ciudadana
+================================================================================
+
+Autor: Juan Pablo Gómez y Kevin Julian Rodriguez
+Fecha: 5 de julio de 2026
+Estado: COMPLETADO
+
+================================================================================
+1. DESCRIPCIÓN DEL PROYECTO
+================================================================================
+
+VigíaUrbano es una aplicación de escritorio desarrollada en Java que permite a
+los ciudadanos reportar incidentes de seguridad en tiempo real. El sistema
+clasifica automáticamente los reportes y notifica a las autoridades
+correspondientes según el tipo de incidente, permitiendo una gestión eficiente
+de las alertas urbanas.
+
+================================================================================
+2. ESTADO ACTUAL
+================================================================================
+
+Aspecto                      | Estado
+-----------------------------|-------------------
+Desarrollo                   | COMPLETADO
+Clases Java                  | 25 implementadas
+Líneas de código             | 2.574
+Persistencia                 | Archivos CSV
+Interfaz gráfica             | Swing (funcional)
+Pruebas                      | Realizadas y exitosas
+Repositorio GitHub           | Publicado
+
+================================================================================
+3. FUNCIONALIDADES IMPLEMENTADAS
+================================================================================
+
+3.1 Gestión de Usuarios
+------------------------
+- Registro de ciudadanos con validaciones de contraseña (mínimo 6 caracteres,
+  mayúscula, minúscula y número)
+- Validación de teléfono (10 dígitos numéricos)
+- Login diferenciado para Civiles y Autoridades
+
+3.2 Gestión de Incidentes
+--------------------------
+- 5 tipos de incidentes: Robo, Incendio, Tiroteo, Sospechoso y Otro
+- Advertencia de 10 segundos antes de enviar un reporte
+- Selección de organismos responsables para incidentes tipo "Otro"
+- Filtro de incidentes por competencia de organismo (Policía, Bomberos, etc.)
+
+3.3 Reportes y Estadísticas
+----------------------------
+- Historial de incidentes atendidos
+- Estadísticas por categoría y ubicación
+- Resumen general con totales de incidentes activos y atendidos
+
+================================================================================
+4. ARQUITECTURA DEL SISTEMA
+================================================================================
+
+El proyecto sigue el patrón Modelo-Vista-Controlador (MVC):
+
+    ┌─────────────────────────────────────────────┐
+    │                    UI                        │
+    │  LoginUI | VentanaPrincipalUI |             │
+    │  VentanaAtendidosUI | DialogoReporteUI      │
+    └─────────────────────────────────────────────┘
+                         ↓
+    ┌─────────────────────────────────────────────┐
+    │              LÓGICA DE NEGOCIO              │
+    │  GestorUsuarios | GestorIncidentes          │
+    │  EstacionesManizales                        │
+    └─────────────────────────────────────────────┘
+                         ↓
+    ┌─────────────────────────────────────────────┐
+    │              PERSISTENCIA (CSV)             │
+    │  CargarUsuarios | GuardarUsuarios           │
+    │  CargarIncidentes | GuardarIncidentes       │
+    └─────────────────────────────────────────────┘
+                         ↓
+    ┌─────────────────────────────────────────────┐
+    │                MODELO                       │
+    │  Usuario | Civil | Autoridad                │
+    │  Incidente | Robo | Incendio | Tiroteo     │
+    │  Sospechoso | Otro | EstadoIncidente        │
+    └─────────────────────────────────────────────┘
+
+================================================================================
+5. MEJORAS REALIZADAS DURANTE EL DESARROLLO
+================================================================================
+
+Problema encontrado                     | Solución implementada
+----------------------------------------|----------------------------------------
+Comas en direcciones rompían el         | Validación de caracteres prohibidos
+formato CSV                             | en la interfaz de usuario
+----------------------------------------|----------------------------------------
+Teléfonos con formato incorrecto        | Método limpiarTelefono() que elimina
+                                        | caracteres no numéricos
+----------------------------------------|----------------------------------------
+NullPointerException en incidentes      | Inicialización de lista de organismos
+"Otro"                                  | por defecto
+----------------------------------------|----------------------------------------
+Duplicados al guardar usuarios          | Uso de Map para garantizar unicidad
+                                        | por ID
+----------------------------------------|----------------------------------------
+Errores de separador en archivos CSV    | Reemplazo de ; por , al guardar
+                                        | descripción y ubicación
+
+================================================================================
+6. PRUEBAS REALIZADAS
+================================================================================
+
+6.1 Conjuntos de datos utilizados
+----------------------------------
+Conjunto                  | Incidentes | Usuarios | Propósito
+--------------------------|------------|----------|-----------------------
+incidentes_aleatorios.csv | 25         | 20       | Prueba general del sistema
+incidentes_masivo.csv     | 60         | 40       | Prueba de carga y rendimiento
+incidentes_otro.csv       | 25         | 15       | Prueba de incidentes "Otro"
+
+6.2 Casos de prueba ejecutados
+-------------------------------
+Caso de prueba                 | Resultado
+-------------------------------|-----------
+Login como Civil               | EXITOSO
+Login como Autoridad           | EXITOSO
+Registro de ciudadano          | EXITOSO
+Reporte de incidente           | EXITOSO
+Selección de organismos en "Otro" | EXITOSO
+Advertencia de 10 segundos     | EXITOSO
+Filtro por organismo           | EXITOSO
+Atención de incidente          | EXITOSO
+Generación de estadísticas     | EXITOSO
+Visualización de atendidos     | EXITOSO
+
+================================================================================
+7. ENTREGABLES
+================================================================================
+
+7.1 Código Fuente
+------------------
+- 25 archivos .java organizados en paquetes (model, data, logic, ui)
+- Estructura MVC completa
+
+7.2 Documentación
+------------------
+- README.md con instrucciones de uso
+- UML.txt con diagrama de clases
+
+7.3 Datos de Prueba
+--------------------
+- Múltiples archivos CSV con usuarios e incidentes pre-cargados
+
+7.4 Repositorio
+----------------
+- GitHub: https://github.com/jpablo-gif/version-final-del-vigia-urbano
+
+================================================================================
+8. CONCLUSIONES
+================================================================================
+
+El sistema VigíaUrbano cumple con todos los objetivos planteados para el MVP:
+
+1. Permite el registro y autenticación de usuarios con roles diferenciados
+2. Gestiona incidentes con 5 categorías diferentes
+3. Clasifica automáticamente los organismos responsables según el tipo de
+   incidente
+4. Filtra incidentes por competencia de autoridad
+5. Proporciona estadísticas y reportes completos
+6. Mantiene persistencia en archivos CSV
+7. Cuenta con una interfaz gráfica intuitiva y funcional
+
+Las pruebas realizadas confirman el correcto funcionamiento de todas las
+características implementadas, demostrando que la aplicación es estable y
+cumple con los requisitos establecidos.
+
+================================================================================
+9. PRÓXIMOS PASOS (PROPUESTOS)
+================================================================================
+
+Característica            | Descripción
+--------------------------|-------------------------------------------
+Mapa interactivo          | Visualización de incidentes en mapa
+Exportar a PDF            | Generación de reportes en PDF
+Notificaciones            | Alertas en tiempo real
+Módulo de mensajería      | Comunicación entre ciudadanos y autoridades
+Pruebas unitarias         | JUnit para validar lógica
+
+================================================================================
+                             FIN DEL INFORME
+================================================================================
+
+Autores: Juan Pablo Gómez  y Kevin Julian Rodriguez 
+Fecha: 5 de julio de 2026
+Estado: COMPLETADO
+
+================================================================================
